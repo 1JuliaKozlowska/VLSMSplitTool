@@ -1,0 +1,8 @@
+C:\Users\Julia\Desktop\VLSMSplitTool\bin\Release\VLSMSplitTool.exe.config
+C:\Users\Julia\Desktop\VLSMSplitTool\bin\Release\VLSMSplitTool.exe
+C:\Users\Julia\Desktop\VLSMSplitTool\bin\Release\VLSMSplitTool.pdb
+C:\Users\Julia\Desktop\VLSMSplitTool\obj\Release\VLSMSplitTool.csproj.AssemblyReference.cache
+C:\Users\Julia\Desktop\VLSMSplitTool\obj\Release\VLSMSplitTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia\Desktop\VLSMSplitTool\obj\Release\VLSMSplitTool.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\VLSMSplitTool\obj\Release\VLSMSplitTool.exe
+C:\Users\Julia\Desktop\VLSMSplitTool\obj\Release\VLSMSplitTool.pdb
